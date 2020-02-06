@@ -44,7 +44,7 @@ def naming_system
   
 
    "Kingdom" = {
-      "Phylum"=> {
+      "Phylum" => {
         "Class" => {
           }
         }
